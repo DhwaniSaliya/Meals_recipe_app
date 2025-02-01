@@ -49,7 +49,7 @@ const availableCategories = [
     id: 'c7',
     title: 'Italian',
     color: Colors.lightBlue,
-    imageUrl: "https://vendify-demos.astoundify.com/tasti/wp-content/uploads/sites/4/2020/12/top-view-pepperoni-pizza-sliced-into-six-slices-1536x1024.jpg",
+    imageUrl: "https://images7.alphacoders.com/596/596343.jpg",
   ),
   Category(
     id: 'c8',
@@ -447,7 +447,7 @@ Meal(
   id: 'm13',
   categories: ['c7'],
   title: 'Pizza',
-  imageUrl: 'https://vendify-demos.astoundify.com/tasti/wp-content/uploads/sites/4/2020/12/top-view-pepperoni-pizza-sliced-into-six-slices-1536x1024.jpg',
+  imageUrl: 'https://images7.alphacoders.com/596/596343.jpg',
   duration: 90, // Total duration in minutes
   ingredients: [
     // Ingredients for Pizza Dough
